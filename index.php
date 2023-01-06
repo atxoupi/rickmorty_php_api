@@ -48,6 +48,7 @@ if ($err) {
     <div class="row row-cols-3">
     <?php
     // Aquí empezamos a crear Cards con los datos de cada personaje...
+    //empezando
     foreach($characters as $character) {
 
         echo '<div class="card col-4 m-2 border border-warning bg-warning text-dark" style="width: 18rem;">';
